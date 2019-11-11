@@ -1,7 +1,7 @@
 Format-Specification: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file&rev=135
-Name: ovoplayer
+Name: ovotext
 Maintainer: Marco Caselli <marcocas@gmail.com>
-Source: https://github.com/varianus/ovoplayer/
+Source: https://github.com/varianus/OvoText/
 
 Files: *
 Copyright: 2011, Marco Caselli <marcocas@gmail.com>
